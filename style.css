@@ -1,0 +1,48 @@
+body, html{
+  height: 100%;
+}
+
+.main-header{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("images/pattern.jpeg");
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h2{
+  background-color: mediumspringgreen;
+}
+
+.frames h2{
+  background-color: lightcoral;
+}
+
+.paint h2{
+  background-color: skyblue;
+}
+
+p, h3{
+  font-family: Helvetica;
+}
+
+h3{
+  font-size: 24px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.dummy-link{
+  color: blue;
+  font-weight: bold;
+}
